@@ -21,7 +21,7 @@ This will be tested via unit test in spearate file/s.
 """
 
 import unittest
-from BookLoverErrors_keeley import *
+from BookLoverErrors import *
 
 class hasReadTestCase(unittest.TestCase): # inherit from unittest.TestCase
     # Unit testing hasRead() method in BookLover.py
