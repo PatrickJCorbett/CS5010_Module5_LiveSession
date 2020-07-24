@@ -1,0 +1,22 @@
+CS 5021 | Assignment - Module 5 Live Session Exercise: Testing Activity
+
+pjc8cq | Patrick Corbett
+
+fwb4cx | Frederick (Will) Blickle
+
+kn3gs  | Krissy North
+
+mar7dh | Rowan Rice
+
+
+Part 3: 
+
+Our group caught 3/3 errors in the other group's buggy code
+The other group caught 1/6 errors in our group's buggy code 
+
+Part 4:
+
+We're going to be looking at COVID data so we'll need to perform the following tests on our code:
+--Make sure our code detects and handles empty/NULL values in the data set
+--Make sure that if we use a counter to increment something that it counts correctly, like patient deaths or counts of symptoms reported, etc.
+--Make sure that whatever class we build to deal with the data (maybe a Patient class) constructs the object correctly even when fields are blank or not passed into the constructor

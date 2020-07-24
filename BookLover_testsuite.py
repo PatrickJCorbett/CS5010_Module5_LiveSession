@@ -1,43 +1,23 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 23 12:54:02 2020
-
-@author: kriss
-"""
-
-
-"""
-
 CS 5021 | Assignment - Module 5 Live Session Exercise: Testing Activity
 File: BookLover_hasRead_Test.py
     Need File: BookLover.py
 ​
 
-xxxxxx | Patrick Corbett
-
+pjc8cq | Patrick Corbett
 fwb4cx | Frederick (Will) Blickle
-
 kn3gs  | Krissy North
-
-mar7dh | Rowan Rice
-
-​
+mar7dh | Rowan Rice​
 
 Due: Friday, 24 July 2020 at 1:00pm EST
-
 ​
-
-
 Part 2
-
 This will be tested via unit test in spearate file/s. 
 
     - Minimum 2x unit tests per method, using proper descriptive names
 
     - do //not// need to test the __str__ method
-
-
-
 """
 
 import unittest
